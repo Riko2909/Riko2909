@@ -1,6 +1,34 @@
 [![](https://visitcount.itsvg.in/api?id=Riko2909&icon=2&color=1)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I'm currently working on RFID-Managementsystem<br>🌱 I'm currently learning C++ & C again<br>💬 Currently busy, but feel free to ask for join your project<br>⚡ Fun fact: I started with Java and now I work fullstack in web development.
+
+RikoRick
+
+Founder of "ABW Bestellsystem"
+
+🚀 Full-Stack Developer | Tech Enthusiast | Problem Solver
+
+✨ Welcome to my GitHub profile! I'm RikoRick, a passionate full-stack developer with expertise in TypeScript, JavaScript, and Python. I thrive on solving complex problems and building innovative solutions that make a positive impact.
+
+🏢 Currently, I am the proud founder of "ABW Bestellsystem,". 
+
+💻 As a programmer, I enjoy working with TypeScript, JavaScript, and Python to craft elegant and efficient code. I'm always exploring new frameworks and technologies to stay at the forefront of development trends.
+
+🌟 On GitHub, you'll find a collection of my projects that demonstrate my skills and creativity. From web applications to APIs, I enjoy working on diverse projects that challenge me and allow me to grow as a developer.
+
+📚 Constant learning is a core principle in my life, and I actively seek opportunities to expand my knowledge and improve my skills. I believe in the power of collaboration and open-source, and I'm enthusiastic about contributing to the developer community.
+
+🎓 Education:
+
+- Electronics Technician for Information and Telecommunication Systems
+- Certificate: NDG Linux Essentials
+- Certificate: JavaScript Essentials 1 (JSE)
+
+🌍 Outside the world of coding, I love listening to new music, and spending time with friends and family. I'm a firm believer in work-life balance and finding inspiration beyond the screen.
+
+💌 If you'd like to collaborate on a project, discuss an idea, or simply say hello, feel free to reach out. I'm always open to exciting opportunities and meaningful connections.
+
+Let's build something amazing together! ✨
+
 
 
 ## 🌐 Socials:
